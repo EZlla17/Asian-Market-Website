@@ -1,2 +1,13 @@
-# Asian-Market-Website
-Developed a website for an Asian market. The main programming languages used were PHP, HTML, CSS, Javascript, and SQL. The site not only allowed customers to log in and view and filter for desired items, but also allowed the administrator to manage the web page and add or remove new items from the database. 
+# INFO 2300 - Project 3
+
+Open this repository as a Codespace on GitHub (or as a container in VS Code.)
+
+## Design Plan
+
+Document your design and your plan in the [design journey](design-plan/design-journey.md).
+
+## Development Server
+
+From the **Run** menu, select **Start Debugging**.
+
+Visit <http://127.0.0.1:8080/> in a browser to access the development server.
